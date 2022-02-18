@@ -1,0 +1,29 @@
+{
+  "name": "open3g4g",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LTCWebsite/Open3G4G.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LTCWebsite/Open3G4G/issues"
+  },
+  "homepage": "https://github.com/LTCWebsite/Open3G4G#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.2",
+    "express-basic-auth": "^1.2.1",
+    "http": "^0.0.1-security",
+    "moment": "^2.29.1",
+    "mssql": "7.3.0",
+    "uuid": "^8.3.2"
+  }
+}
